@@ -1,2 +1,2 @@
 <?php
-define('BOX_CONFIGURATION_WINCHESTER_RESPONSIVE', 'Winchester Black Template Konfiguration');
+define('BOX_CONFIGURATION_WINCHESTER_BLACK', 'Winchester Black Template Konfiguration');
